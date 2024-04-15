@@ -1,2 +1,2 @@
-Este es un README bien hecho desde mi equipo
+Este README esta hecho desde remoto
 shdhusahfashfasuisua
